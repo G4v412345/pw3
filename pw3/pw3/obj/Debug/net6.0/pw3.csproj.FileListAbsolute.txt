@@ -1,0 +1,15 @@
+C:\Users\Gava\Desktop\УЧЕБА\2\oop\pw3\pw3\obj\Debug\net6.0\pw3.csproj.AssemblyReference.cache
+C:\Users\Gava\Desktop\УЧЕБА\2\oop\pw3\pw3\obj\Debug\net6.0\pw3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gava\Desktop\УЧЕБА\2\oop\pw3\pw3\obj\Debug\net6.0\pw3.AssemblyInfoInputs.cache
+C:\Users\Gava\Desktop\УЧЕБА\2\oop\pw3\pw3\obj\Debug\net6.0\pw3.AssemblyInfo.cs
+C:\Users\Gava\Desktop\УЧЕБА\2\oop\pw3\pw3\obj\Debug\net6.0\pw3.csproj.CoreCompileInputs.cache
+C:\Users\Gava\Desktop\УЧЕБА\2\oop\pw3\pw3\bin\Debug\net6.0\pw3.exe
+C:\Users\Gava\Desktop\УЧЕБА\2\oop\pw3\pw3\bin\Debug\net6.0\pw3.deps.json
+C:\Users\Gava\Desktop\УЧЕБА\2\oop\pw3\pw3\bin\Debug\net6.0\pw3.runtimeconfig.json
+C:\Users\Gava\Desktop\УЧЕБА\2\oop\pw3\pw3\bin\Debug\net6.0\pw3.dll
+C:\Users\Gava\Desktop\УЧЕБА\2\oop\pw3\pw3\bin\Debug\net6.0\pw3.pdb
+C:\Users\Gava\Desktop\УЧЕБА\2\oop\pw3\pw3\obj\Debug\net6.0\pw3.dll
+C:\Users\Gava\Desktop\УЧЕБА\2\oop\pw3\pw3\obj\Debug\net6.0\refint\pw3.dll
+C:\Users\Gava\Desktop\УЧЕБА\2\oop\pw3\pw3\obj\Debug\net6.0\pw3.pdb
+C:\Users\Gava\Desktop\УЧЕБА\2\oop\pw3\pw3\obj\Debug\net6.0\pw3.genruntimeconfig.cache
+C:\Users\Gava\Desktop\УЧЕБА\2\oop\pw3\pw3\obj\Debug\net6.0\ref\pw3.dll
